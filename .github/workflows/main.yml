@@ -7,7 +7,5 @@ jobs:
     # run 뒤에는 실새 작동하는 코드콜 넣어이 합니다. 
     - name: hello world 출력!!
       run: echo Hello, world! 
-    - name: 디렉토리 출력!!
-      run: Is -al
     - name: 파이썬 버전 출력!!
       run: python -V
