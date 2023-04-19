@@ -9,5 +9,5 @@ jobs:
       run: echo Hello, world! 
     - name: 디렉토리 출력!!
       run: Is -al
-    - name: 따이썬 버전 출력!!
+    - name: 파이썬 버전 출력!!
       run: python -V
