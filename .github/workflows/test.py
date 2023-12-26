@@ -1,12 +1,4 @@
-print('Hellow World!!')
-import subprocess
-import sys
-import uuid
-import datetime
-import os
-import shutil
-
-def readActivityParam():
+print('Hellow World!!')def readActivityParam():
     paramFileName = 'ActivityParameters.nv'
 
     f = open(paramFileName, 'r')
